@@ -113,6 +113,8 @@ python evaluate.py --model path_to_model
 Learned stable grasping behavior
 Successful door opening in simulation
 Smooth and collision-free trajectories
+<img width="604" height="405" alt="image" src="https://github.com/user-attachments/assets/86e13093-ed73-4dac-a89b-c10dddf70ef7" />
+
 🚀 Future Work
 Sim-to-real transfer
 Multi-agent manipulation
